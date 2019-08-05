@@ -8,6 +8,9 @@ public class helloworld {
 		System.out.printf("Hello World");
 		System.out.printf("Hello World");
 		System.out.printf("Hello World");
+		System.out.printf("Hello World");
+		System.out.printf("Hello World");
+		System.out.printf("Hello World");
 	}
 
 }
